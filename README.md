@@ -2,5 +2,5 @@
 A dummy Virus.
 
 # INSTRUCTIONS:
--- Run Big Loop For Full Version.
--- Run start.bat for mini version.
+-- Run Big_Loop.vbs For Full Version.
+-- Run start.bat for basic/simple version.
