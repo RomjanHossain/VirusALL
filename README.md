@@ -1,7 +1,7 @@
 # Window.exe
 A Dummy Virus.
-It won't harm your device (I'm speaking to you Joshwan, and I don't care what you think about your name bein put on the Internet!)
+## It won't harm your device (I'm speaking to you Joshwan, and I don't care what you think about your name bein put on the Internet!)
 
-# INSTRUCTIONS:
+# INSTRUCTIONS
 - Run Big_Loop.vbs For Full Version.
 - Run start.bat for basic/simple version.
