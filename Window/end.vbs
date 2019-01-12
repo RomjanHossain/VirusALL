@@ -1,3 +1,4 @@
+set object = wscript.CreateObject("wscript.shell")
 msgbox "Game Done!"
 object.run "ok.vbs"
 msgbox "Kill Me Now While You Can You GAY Sh*t!"
